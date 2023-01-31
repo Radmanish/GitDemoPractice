@@ -11,6 +11,7 @@ import org.openqa.selenium.support.PageFactory;
 public class AllMobileBrands {
 	//ggggg
 		Actions action;
+		int x;
 	
 		 @FindBy(linkText = "Mobiles & Accessories")
 			private WebElement mobilesAndAccesories;
